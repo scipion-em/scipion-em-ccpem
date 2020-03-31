@@ -25,3 +25,4 @@
 # **************************************************************************
 
 from .protocol_lafter import ProtLafter
+from .protocol_fdr import ProtFDR

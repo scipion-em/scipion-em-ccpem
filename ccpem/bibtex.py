@@ -31,6 +31,16 @@ _bibtexStr = """
    Volume="205",
    Number="1",
    Pages="30--40",
-   Month="Jan"
 }
+
+@Article{Beckers2019,
+   Author="Beckers, M. and Jakobi, A. J. and Sachse, C.",
+   Title="{Thresholding of cryo-EM density maps by false discovery rate control}",
+   Journal="IUCR J.",
+   Year="2019",
+   Volume="6",
+   Number="1",
+   Pages="18--33",
+}
+
 """
